@@ -9,3 +9,4 @@ lxqt-session
 openbox
 dbus-x11
 pcmanfm-qt
+htop
