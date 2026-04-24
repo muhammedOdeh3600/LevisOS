@@ -1,3 +1,11 @@
 network-manager
 sudo
 git
+fish
+fastfetch
+lightdm
+lxqt-core
+lxqt-session
+openbox
+dbus-x11
+pcmanfm-qt
