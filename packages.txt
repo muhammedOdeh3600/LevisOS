@@ -12,3 +12,4 @@ pcmanfm-qt
 alacritty
 extrepo
 htop
+
