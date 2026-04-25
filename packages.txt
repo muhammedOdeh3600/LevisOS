@@ -9,6 +9,10 @@ lxqt-session
 openbox
 dbus-x11
 pcmanfm-qt
+HEAD
 alacritty
 extrepo
 
+
+htop
+356b39f4b483ff5862bd6e93dc5bc530caae92f1
